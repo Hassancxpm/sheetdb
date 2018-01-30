@@ -104,6 +104,7 @@ a {
   background-color: white;
   color: black;
   border: 1px solid #4CAF50;
+  border-radius: 3px;
   padding: 4px 30px;
   text-align: center;
   text-decoration: none;
@@ -123,6 +124,7 @@ a {
   background-color: white;
   color: black;
   border: 1px solid #f44336;
+  border-radius: 3px;
   padding: 4px 30px;
   text-align: center;
   text-decoration: none;
